@@ -6,23 +6,15 @@
 <meta name="viewport"content="width"=device-width,intial-scale=1.0>
 <meta name="keywords" content="Girls,Girls site,Girls Devolep,Girls,girls secret">
 <meta name="author" content="Mamadaliyev">
+<style> table, th, td { border: 1px solid black } </style>
 <title>Devolep Girl</title>
-        
-<style>
-    table, th, td {
-      border: 1px solid black
-    }
-      
-      </style>
-
 </head>
 <body>
-    <form action="https://t.me/Ilyaz_7616">
-
-                          <fieldset>
-                 <legend>Girl Devolep It</legend>
-                  <i>don't be shy devolep it </i>&#128151;
-                          </fieldset>
+<form action="https://t.me/Ilyaz_7616">
+<fieldset>
+<legend>Girl Devolep It</legend>
+<i>don't be shy devolep it </i>&#128151;
+</fieldset>
                         
 <h1>About</h1>
 <p>It can be intimidating for women to learn and ask questions when they are in an <b>extreme monirity.</b>
