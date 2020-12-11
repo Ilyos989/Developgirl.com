@@ -6,7 +6,6 @@
 <meta name="viewport"content="width"=device-width,intial-scale=1.0>
 <meta name="keywords" content="Girls,Girls site,Girls Devolep,Girls,girls secret">
 <meta name="author" content="Mamadaliyev">
-<title>DevolepGirl</title>
 </head>
 <body>
 <form action="https://t.me/Ilyaz_7616">
