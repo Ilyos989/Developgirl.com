@@ -6,7 +6,6 @@
 <meta name="viewport"content="width"=device-width,intial-scale=1.0>
 <meta name="keywords" content="Girls,Girls site,Girls Devolep,Girls,girls secret">
 <meta name="author" content="Mamadaliyev">
-<style> table, th, td { border: 1px solid black } </style>
 <title>Devolep Girl</title>
 </head>
 <body>
@@ -41,7 +40,7 @@
 
 
 <h2>Upcoming Classes</h2>
-
+<style> table, th, td { border: 1px solid black } </style>
 <br>
 <table>
 <tr>
