@@ -20,10 +20,8 @@
     <form action="https://t.me/Ilyaz_7616">
 
                           <fieldset>
-
                  <legend>Girl Devolep It</legend>
                   <i>don't be shy devolep it </i>&#128151;
-
                           </fieldset>
                         
 <h1>About</h1>
