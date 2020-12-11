@@ -3,11 +3,11 @@
 <html>
     <head>
 <meta charset="UTF-8">
-<meta name="description" content="Girls Devolep It">
+<meta name="viewport"content="width"=device-width,intial-scale=1.0>
 <meta name="keywords" content="Girls,Girls site,Girls Devolep,Girls,girls secret">
 <meta name="author" content="Mamadaliyev">
-<meta name="viewport"content="width"=device-width,intial-scale=1.0>
 <title>Devolep Girl</title>
+        
 <style>
     table, th, td {
       border: 1px solid black
